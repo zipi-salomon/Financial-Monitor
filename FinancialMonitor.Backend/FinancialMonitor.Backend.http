@@ -1,0 +1,6 @@
+@FinancialMonitor.Backend_HostAddress = http://localhost:5259
+
+GET {{FinancialMonitor.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
